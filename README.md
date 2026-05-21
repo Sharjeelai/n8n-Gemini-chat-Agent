@@ -11,4 +11,12 @@ To fix that, I hooked this agent up with *Window Buffer Memory*. Now, it keeps t
 
 ### 🛠️ What's Inside the Box?
 * *Chat Trigger Node:* The starting point where the user says hello.
-* *AI…
+* *AI Agent:* The main router managing the logic.
+* *Gemini Model:* The heavy lifter handling the smart responses.
+* *Simple Memory:* The exact node that stops the bot from getting amnesia.
+
+### 🚀 Want to run it yourself?
+It's super easy. You don't need to rebuild it from scratch:
+1. Grab the Simple-gemini-chat-agent.json file from this repo.
+2. Open your n8n (Local or Cloud), click the 3 dots on the top right, and hit *Import from File*.
+3. Plug in your own Google Gemini API key, and boom—you have your own memory-backed AI agent running in seconds!
