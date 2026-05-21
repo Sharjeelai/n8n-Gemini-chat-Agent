@@ -20,3 +20,9 @@ It's super easy. You don't need to rebuild it from scratch:
 1. Grab the Simple-gemini-chat-agent.json file from this repo.
 2. Open your n8n (Local or Cloud), click the 3 dots on the top right, and hit *Import from File*.
 3. Plug in your own Google Gemini API key, and boom—you have your own memory-backed AI agent running in seconds!
+### 📸 Workflow Screenshots
+Here is how the workflow looks inside n8n:
+
+![Workflow Clean](Screenshot Chat agent_n8n.png)
+
+![Workflow Executed](Screenshot Chat agent_n8n (3).png)
