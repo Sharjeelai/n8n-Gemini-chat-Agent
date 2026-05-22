@@ -1,4 +1,4 @@
-## 🤖 My First Smart AI Agent (Built with n8n + Gemini)
+## 🤖 My  Smart AI Agent (Built with n8n + Gemini)
 
 Hey there! 👋 Thanks for stopping by my repo. 
 
